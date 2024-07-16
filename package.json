@@ -1,0 +1,18 @@
+{
+  "name": "final-app",
+  "version": "1.0.0",
+  "description": "final app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.2.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.2"
+  }
+}
